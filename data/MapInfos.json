@@ -3,10 +3,10 @@ null,
 {"id":1,"expanded":true,"name":"Başlangıç","order":1,"parentId":0,"scrollX":655.2,"scrollY":365.6},
 {"id":2,"expanded":true,"name":"Zindan?","order":2,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Zindan kat 1","order":3,"parentId":2,"scrollX":655.2,"scrollY":365.6},
-{"id":4,"expanded":false,"name":"zindan kat 2","order":4,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"zindan kat 2","order":4,"parentId":3,"scrollX":655.2,"scrollY":365.6},
 {"id":5,"expanded":false,"name":"Demirci","order":5,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"Büyücü","order":6,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":true,"name":"Han","order":7,"parentId":1,"scrollX":655.2,"scrollY":365.6},
-{"id":8,"expanded":true,"name":"Han Kat 2","order":8,"parentId":7,"scrollX":655.2,"scrollY":365.6},
+{"id":7,"expanded":true,"name":"Han","order":7,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"Han Kat 2","order":8,"parentId":7,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":false,"name":"Oda","order":9,"parentId":8,"scrollX":655.2,"scrollY":365.6}
 ]
